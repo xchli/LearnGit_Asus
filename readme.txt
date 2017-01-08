@@ -5,3 +5,5 @@ Git tracks changes of files.
 
 push the learngit to the github.
 
+Creating a new branch is quick.
+
